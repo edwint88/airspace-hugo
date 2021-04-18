@@ -1,5 +1,5 @@
 baseURL = "https://www.zartugames.com"
-disableLanguages = []
+disableLanguages = ["IT", "DE", "FR"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
